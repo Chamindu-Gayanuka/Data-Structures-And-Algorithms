@@ -44,4 +44,4 @@ Asymptotic analysis is a method of describing the **performance** or **complexit
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT [LICENSE](https://github.com/Chamindu-Gayanuka/blob/main/Data-Structures-And-Algorithms/LICENSE).
+This project is licensed under the MIT [LICENSE](https://github.com/Chamindu-Gayanuka/Data-Structures-And-Algorithms/blob/main/LICENSE).
