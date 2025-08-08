@@ -23,7 +23,6 @@ bin/
 /.nb-gradle/
 
 ### VS Code ###
-.vscode/
 
 ### Intellij IDEA ###
 .idea/
@@ -31,3 +30,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+config.bat
+node_modules
